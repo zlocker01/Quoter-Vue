@@ -1,20 +1,7 @@
-## Descricpion 🖥️
-Quoter-Vue
+# Vue 3 + Vite
 
-Cotizador de prestamos creado con Vue y Tailwind y utilizano Vite para subir a Netlify 
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Autor ✒️
+## Recommended IDE Setup
 
-Diego Beristain de la Mora
-
-## Ver Proyecto en vivo 👁️
-
-https://marvelous-halva-31cfdf.netlify.app/
-
-## Instalacion 🔌
-
-Este proyecto no necesita instalacion solo abre la carpeta o haz doble-click en el .HTML
-
-## Contratacion 📧
-
-beristaindelamora@gmail.com
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
